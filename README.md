@@ -1,7 +1,7 @@
-Express & ES6 REST API Boilerplate
-==================================
+# node_api_base
+Base project for nodejs api's. 
+Based on ----- https://github.com/developit/express-es6-rest-api -----
 
-This is a straightforward boilerplate for building REST APIs with ES6 and Express.
 
 - ES6 support via [babel](https://babeljs.io)
 - REST resources as middleware via [resource-router-middleware](https://github.com/developit/resource-router-middleware)
@@ -50,8 +50,3 @@ docker run -p 8080:8080 es6/api-service
 #          machine port   
 
 ```
-
-License
--------
-
-MIT
